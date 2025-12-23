@@ -12,7 +12,7 @@ The goal of this project was to identify high-risk customers likely to leave the
 - **Potential Revenue Saved:** By targeting these customers with a 20% success rate, the bank can retain an estimated **$[Insert Your Value]** annually.
 
 ## 🚀 Live Demo
-**[Click Here to Access the Live Predictor App](https://your-app-link.streamlit.app)**
+**[Click Here to Access the Live Predictor App]([https://your-app-link.streamlit.app](https://bank-customer-churn-prediction-retention-strategy-roshan.streamlit.app/))**
 
 ## 🔍 Major Insights (EDA)
 * **The Mid-Age Crisis:** Customers in the **45-60 age bracket** show a **50% churn rate**, making them the highest-risk demographic.
