@@ -8,8 +8,8 @@
 The goal of this project was to identify high-risk customers likely to leave the bank and quantify the financial impact of churn. By predicting churn accurately, the bank can implement proactive retention strategies to save millions in deposits.
 
 ### 💰 Key Financial Impact
-- **Total Value at Risk:** Identified **$[Insert Your Value]** in account balances belonging to customers likely to churn.
-- **Potential Revenue Saved:** By targeting these customers with a 20% success rate, the bank can retain an estimated **$[Insert Your Value]** annually.
+- **Total Value at Risk:** Identified **$42,721,202** in account balances belonging to customers likely to churn.
+- **Potential Revenue Saved:** By targeting these customers with a 20% success rate, the bank can retain an estimated **$4,057,620** annually.
 
 ## 🚀 Live Demo
 You can access the interactive web application here:
